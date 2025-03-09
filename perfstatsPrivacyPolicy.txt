@@ -1,0 +1,63 @@
+Privacy Policy for PerfStats
+
+Last Updated: 09/March/2025
+
+Introduction
+
+PerfStats ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, and safeguard your information when you use our app. By using our app, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+
+a. Personal Information
+We may collect limited personal information, such as your device information, but we do not collect any directly identifiable information (like names or emails).
+
+b. Device and Usage Information
+We collect certain technical information about your device, including:
+
+Device model and operating system version
+App version and performance data (e.g., crash reports)
+Usage data, such as interactions with different app features
+c. Data from Shizuku (If Applicable)
+If you enable Shizuku in our app to grant certain permissions, we may access and use system-level features for enhanced app performance. However, this information remains on your device and is not shared externally.
+
+d. Settings Preferences
+We may collect information on your preferences, such as selected layout styles or fonts within the app, to personalize your experience.
+
+2. How We Use Your Information
+
+We use the information collected for:
+
+App Performance: Monitoring and improving the functionality and performance of the app.
+User Preferences: Saving preferences for user experience customization.
+Device Compatibility: Ensuring compatibility with various devices and improving app stability.
+3. Sharing and Disclosure of Information
+
+We do not sell or share your information with third-party companies or partners except in the following cases:
+
+Analytics Providers: To improve app performance, we may share aggregated, anonymous usage data with analytics providers, such as Google Analytics.
+Legal Requirements: If required by law or to protect our rights, we may disclose your information as necessary.
+4. Data Security
+
+We take data security seriously and implement technical measures to protect your information. Although we take precautions, please be aware that no method of electronic storage is completely secure.
+
+5. User Rights and Control
+
+You have the right to:
+
+Access or Modify Settings: Change preferences like layout and font within the app.
+Withdraw Shizuku Access: Disable Shizuku permission at any time if you do not wish to grant elevated access.
+6. Data Retention
+
+We retain your data only for as long as necessary to provide and improve our services. Settings and preferences are stored on your device and will be removed if you uninstall the app.
+
+7. Children's Privacy
+
+Our app is not intended for children under the age of 13. We do not knowingly collect information from children.
+
+8. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be posted in the app, and the updated date will be revised at the top of this page.
+
+9. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, please contact us at contactdroideverything@gmail.com
